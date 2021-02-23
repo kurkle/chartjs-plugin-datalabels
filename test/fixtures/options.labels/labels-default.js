@@ -39,7 +39,7 @@ export default {
   options: {
     canvas: {
       height: 64,
-      width: 32
+      width: 33
     }
   }
 };
